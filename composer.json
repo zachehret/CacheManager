@@ -1,4 +1,14 @@
 {
+    "name": "zachehret/cachemanager",
+    "description": "CacheManager is a simple PHP library for caching data in files.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zach Ehret",
+            "email": "zach@ehretweb.co"
+        }
+    ],
     "require": {
         "php": ">=8.0",
         "php-curl-class/php-curl-class": "^9.6"
